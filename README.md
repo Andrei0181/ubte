@@ -1,5 +1,8 @@
 # UBTE — Universal Binary Transformation Engine
 
+
+> Part of the **BERESTOV Web3 Tools** portfolio. See the [Portfolio Overview](https://github.com/Andrei0181/binance-mcp-agent/blob/main/PORTFOLIO_OVERVIEW.md) for the wider project catalogue and ecosystem context.
+
 UBTE is a systems-programming project focused on low-level binary transformation and lookup operations, with an emphasis on correctness, predictable behavior, and performance-aware implementation.
 
 ## Project direction
